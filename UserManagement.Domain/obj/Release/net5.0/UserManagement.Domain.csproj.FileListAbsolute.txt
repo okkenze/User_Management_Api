@@ -1,0 +1,15 @@
+C:\Users\okechukwu.nmema\source\repos\UserManagement\UserManagement.Domain\bin\Release\net5.0\UserManagement.Domain.deps.json
+C:\Users\okechukwu.nmema\source\repos\UserManagement\UserManagement.Domain\bin\Release\net5.0\UserManagement.Domain.runtimeconfig.json
+C:\Users\okechukwu.nmema\source\repos\UserManagement\UserManagement.Domain\bin\Release\net5.0\UserManagement.Domain.runtimeconfig.dev.json
+C:\Users\okechukwu.nmema\source\repos\UserManagement\UserManagement.Domain\bin\Release\net5.0\UserManagement.Domain.dll
+C:\Users\okechukwu.nmema\source\repos\UserManagement\UserManagement.Domain\bin\Release\net5.0\ref\UserManagement.Domain.dll
+C:\Users\okechukwu.nmema\source\repos\UserManagement\UserManagement.Domain\bin\Release\net5.0\UserManagement.Domain.pdb
+C:\Users\okechukwu.nmema\source\repos\UserManagement\UserManagement.Domain\obj\Release\net5.0\UserManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\okechukwu.nmema\source\repos\UserManagement\UserManagement.Domain\obj\Release\net5.0\UserManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okechukwu.nmema\source\repos\UserManagement\UserManagement.Domain\obj\Release\net5.0\UserManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\okechukwu.nmema\source\repos\UserManagement\UserManagement.Domain\obj\Release\net5.0\UserManagement.Domain.AssemblyInfo.cs
+C:\Users\okechukwu.nmema\source\repos\UserManagement\UserManagement.Domain\obj\Release\net5.0\UserManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\okechukwu.nmema\source\repos\UserManagement\UserManagement.Domain\obj\Release\net5.0\UserManagement.Domain.dll
+C:\Users\okechukwu.nmema\source\repos\UserManagement\UserManagement.Domain\obj\Release\net5.0\ref\UserManagement.Domain.dll
+C:\Users\okechukwu.nmema\source\repos\UserManagement\UserManagement.Domain\obj\Release\net5.0\UserManagement.Domain.pdb
+C:\Users\okechukwu.nmema\source\repos\UserManagement\UserManagement.Domain\obj\Release\net5.0\UserManagement.Domain.genruntimeconfig.cache

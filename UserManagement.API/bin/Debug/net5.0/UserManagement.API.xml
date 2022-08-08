@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UserManagement.API</name>
+    </assembly>
+    <members>
+        <member name="M:UserManagement.API.Controllers.UserController.Createuser(UserManagement.Domain.Models.UserMapper)">
+            <summary>
+            Thie endpoint is used to create a new user
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.API.Controllers.UserController.DeleteUser(System.Int32)">
+            <summary>
+            This endpoint deletes a user using id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.API.Controllers.UserController.DeleteUser(System.Collections.Generic.List{System.Int32})">
+            <summary>
+            This deletes multiple user by passing a list ids
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.API.Controllers.UserController.GetUsers">
+            <summary>
+            This endpoint is used to retrieve all users
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.API.Controllers.UserController.GetUserByEmailAndRole(System.String,System.String)">
+            <summary>
+            This retrieves a user using email and role
+            </summary>
+            <param name="email"></param>
+            <param name="role"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.API.Controllers.UserController.GetUser(System.Int32)">
+            <summary>
+            Retrieves a user by id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.API.Controllers.UserController.EditUser(UserManagement.Domain.User)">
+            <summary>
+            Updates a user detail
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
